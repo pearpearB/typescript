@@ -1,0 +1,12 @@
+/**
+ * @see https://www.typescriptlang.org/ko/docs/handbook/tsconfig-json.html
+ */
+{
+  "compilerOptions": {
+    "strict": true,
+    "isolatedModules": true,
+    "target": "ES5",
+    "module": "commonjs",
+    "outDir": "./dist"
+  }
+}
